@@ -125,7 +125,7 @@ section:nth-child(1) div:hover:before {
 }
 /* line 68, ../sass/screen.scss */
 section:nth-child(1) div:first-child {
-  background-color: #45478a;
+  background-color: #4d4f9b;
 }
 /* line 71, ../sass/screen.scss */
 section:nth-child(1) div:first-child:before {
@@ -133,7 +133,7 @@ section:nth-child(1) div:first-child:before {
 }
 /* line 75, ../sass/screen.scss */
 section:nth-child(1) div:nth-child(2) {
-  background-color: #4d4f9b;
+  background-color: #45478a;
 }
 /* line 78, ../sass/screen.scss */
 section:nth-child(1) div:nth-child(2):before {
@@ -201,7 +201,7 @@ section:nth-child(2) div:hover:before {
 }
 /* line 68, ../sass/screen.scss */
 section:nth-child(2) div:first-child {
-  background-color: #48458a;
+  background-color: #514d9b;
 }
 /* line 71, ../sass/screen.scss */
 section:nth-child(2) div:first-child:before {
@@ -209,7 +209,7 @@ section:nth-child(2) div:first-child:before {
 }
 /* line 75, ../sass/screen.scss */
 section:nth-child(2) div:nth-child(2) {
-  background-color: #514d9b;
+  background-color: #48458a;
 }
 /* line 78, ../sass/screen.scss */
 section:nth-child(2) div:nth-child(2):before {
@@ -277,7 +277,7 @@ section:nth-child(3) div:hover:before {
 }
 /* line 68, ../sass/screen.scss */
 section:nth-child(3) div:first-child {
-  background-color: #4e458a;
+  background-color: #584d9b;
 }
 /* line 71, ../sass/screen.scss */
 section:nth-child(3) div:first-child:before {
@@ -285,7 +285,7 @@ section:nth-child(3) div:first-child:before {
 }
 /* line 75, ../sass/screen.scss */
 section:nth-child(3) div:nth-child(2) {
-  background-color: #584d9b;
+  background-color: #4e458a;
 }
 /* line 78, ../sass/screen.scss */
 section:nth-child(3) div:nth-child(2):before {
@@ -353,7 +353,7 @@ section:nth-child(4) div:hover:before {
 }
 /* line 68, ../sass/screen.scss */
 section:nth-child(4) div:first-child {
-  background-color: #54458a;
+  background-color: #5e4d9b;
 }
 /* line 71, ../sass/screen.scss */
 section:nth-child(4) div:first-child:before {
@@ -361,7 +361,7 @@ section:nth-child(4) div:first-child:before {
 }
 /* line 75, ../sass/screen.scss */
 section:nth-child(4) div:nth-child(2) {
-  background-color: #5e4d9b;
+  background-color: #54458a;
 }
 /* line 78, ../sass/screen.scss */
 section:nth-child(4) div:nth-child(2):before {
@@ -429,7 +429,7 @@ section:nth-child(5) div:hover:before {
 }
 /* line 68, ../sass/screen.scss */
 section:nth-child(5) div:first-child {
-  background-color: #5a458a;
+  background-color: #654d9b;
 }
 /* line 71, ../sass/screen.scss */
 section:nth-child(5) div:first-child:before {
@@ -437,7 +437,7 @@ section:nth-child(5) div:first-child:before {
 }
 /* line 75, ../sass/screen.scss */
 section:nth-child(5) div:nth-child(2) {
-  background-color: #654d9b;
+  background-color: #5a458a;
 }
 /* line 78, ../sass/screen.scss */
 section:nth-child(5) div:nth-child(2):before {
@@ -505,7 +505,7 @@ section:nth-child(6) div:hover:before {
 }
 /* line 68, ../sass/screen.scss */
 section:nth-child(6) div:first-child {
-  background-color: #5f458a;
+  background-color: #6b4d9b;
 }
 /* line 71, ../sass/screen.scss */
 section:nth-child(6) div:first-child:before {
@@ -513,7 +513,7 @@ section:nth-child(6) div:first-child:before {
 }
 /* line 75, ../sass/screen.scss */
 section:nth-child(6) div:nth-child(2) {
-  background-color: #6b4d9b;
+  background-color: #5f458a;
 }
 /* line 78, ../sass/screen.scss */
 section:nth-child(6) div:nth-child(2):before {
@@ -581,7 +581,7 @@ section:nth-child(7) div:hover:before {
 }
 /* line 68, ../sass/screen.scss */
 section:nth-child(7) div:first-child {
-  background-color: #65458a;
+  background-color: #724d9b;
 }
 /* line 71, ../sass/screen.scss */
 section:nth-child(7) div:first-child:before {
@@ -589,7 +589,7 @@ section:nth-child(7) div:first-child:before {
 }
 /* line 75, ../sass/screen.scss */
 section:nth-child(7) div:nth-child(2) {
-  background-color: #724d9b;
+  background-color: #65458a;
 }
 /* line 78, ../sass/screen.scss */
 section:nth-child(7) div:nth-child(2):before {
@@ -657,7 +657,7 @@ section:nth-child(8) div:hover:before {
 }
 /* line 68, ../sass/screen.scss */
 section:nth-child(8) div:first-child {
-  background-color: #6b458a;
+  background-color: #784d9b;
 }
 /* line 71, ../sass/screen.scss */
 section:nth-child(8) div:first-child:before {
@@ -665,7 +665,7 @@ section:nth-child(8) div:first-child:before {
 }
 /* line 75, ../sass/screen.scss */
 section:nth-child(8) div:nth-child(2) {
-  background-color: #784d9b;
+  background-color: #6b458a;
 }
 /* line 78, ../sass/screen.scss */
 section:nth-child(8) div:nth-child(2):before {
@@ -733,7 +733,7 @@ section:nth-child(9) div:hover:before {
 }
 /* line 68, ../sass/screen.scss */
 section:nth-child(9) div:first-child {
-  background-color: #71458a;
+  background-color: #7f4d9b;
 }
 /* line 71, ../sass/screen.scss */
 section:nth-child(9) div:first-child:before {
@@ -741,7 +741,7 @@ section:nth-child(9) div:first-child:before {
 }
 /* line 75, ../sass/screen.scss */
 section:nth-child(9) div:nth-child(2) {
-  background-color: #7f4d9b;
+  background-color: #71458a;
 }
 /* line 78, ../sass/screen.scss */
 section:nth-child(9) div:nth-child(2):before {
@@ -809,7 +809,7 @@ section:nth-child(10) div:hover:before {
 }
 /* line 68, ../sass/screen.scss */
 section:nth-child(10) div:first-child {
-  background-color: #77458a;
+  background-color: #854d9b;
 }
 /* line 71, ../sass/screen.scss */
 section:nth-child(10) div:first-child:before {
@@ -817,7 +817,7 @@ section:nth-child(10) div:first-child:before {
 }
 /* line 75, ../sass/screen.scss */
 section:nth-child(10) div:nth-child(2) {
-  background-color: #854d9b;
+  background-color: #77458a;
 }
 /* line 78, ../sass/screen.scss */
 section:nth-child(10) div:nth-child(2):before {
@@ -885,7 +885,7 @@ section:nth-child(11) div:hover:before {
 }
 /* line 68, ../sass/screen.scss */
 section:nth-child(11) div:first-child {
-  background-color: #7c458a;
+  background-color: #8c4d9b;
 }
 /* line 71, ../sass/screen.scss */
 section:nth-child(11) div:first-child:before {
@@ -893,7 +893,7 @@ section:nth-child(11) div:first-child:before {
 }
 /* line 75, ../sass/screen.scss */
 section:nth-child(11) div:nth-child(2) {
-  background-color: #8c4d9b;
+  background-color: #7c458a;
 }
 /* line 78, ../sass/screen.scss */
 section:nth-child(11) div:nth-child(2):before {
@@ -961,7 +961,7 @@ section:nth-child(12) div:hover:before {
 }
 /* line 68, ../sass/screen.scss */
 section:nth-child(12) div:first-child {
-  background-color: #82458a;
+  background-color: #924d9b;
 }
 /* line 71, ../sass/screen.scss */
 section:nth-child(12) div:first-child:before {
@@ -969,7 +969,7 @@ section:nth-child(12) div:first-child:before {
 }
 /* line 75, ../sass/screen.scss */
 section:nth-child(12) div:nth-child(2) {
-  background-color: #924d9b;
+  background-color: #82458a;
 }
 /* line 78, ../sass/screen.scss */
 section:nth-child(12) div:nth-child(2):before {
