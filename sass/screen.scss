@@ -37,6 +37,11 @@ section {
         div {
 			
 			position: relative;
+			-webkit-transtion: all .2s;
+			-moz-transtion: all .2s;
+			-ms-transtion: all .2s;
+			-o-transtion: all .2s;
+			transtion: all .2s;
 
 			&:before {
 				display            : block;
@@ -61,14 +66,14 @@ section {
 			
 
         	&:first-child {
-        		background-color: lighten(nth($base,$i),5%);
+        		background-color: lighten(nth($base,$i),10%);
 
         		&:before {
         			content: "#{lighten(nth($base,$i),5%)}";
         		}
         	}
         	&:nth-child(2) {
-				background-color: lighten(nth($base,$i),10%);
+				background-color: lighten(nth($base,$i),5%);
 
         		&:before {
         			content: "#{lighten(nth($base,$i),10%)}";
@@ -103,83 +108,3 @@ section {
         }
     }
 }
-
-// ul {
-// 	width: 100%;
-// 	> li {
-// 		width: 49%;
-// 		&:nth-child(1) {
-// 			li {
-// 				background-color: lighten($base1,20%);
-
-// 				&:last-child {
-// 					background-color: desaturate(lighten($base1,20%),10%);
-// 				}
-// 			}
-// 		}
-
-// 		&:nth-child(2) {
-// 			li {
-// 				background-color: lighten($base1,10%);
-
-// 				&:last-child {
-// 					background-color: desaturate(lighten($base1,10%),10%);
-// 				}
-// 			}
-// 		}
-
-// 		&:nth-child(3) {
-// 			li {
-// 				background-color: $base1;
-
-// 				&:last-child {
-// 					background-color: desaturate($base1,10%);
-// 				}
-// 			}
-// 		}
-
-// 		&:nth-child(4) {
-// 			li {
-// 				background-color: darken($base1,10%);
-
-// 				&:last-child {
-// 					background-color: desaturate(darken($base1,10%),10%);
-// 				}
-// 			}
-// 		}
-
-// 		&:nth-child(5) {
-// 			li {
-// 				background-color: darken($base1,20%);
-// 			}
-// 		}
-
-// 		li {
-// 			width               : 320px;
-// 			padding             : 100px;
-// 			background-image    : url('../assets/logo.svgz');
-// 			background-size     : 320px auto;
-// 			background-position : center;
-// 			background-repeat   : no-repeat;
-// 			display             : inline-block;
-// 			float               : left;
-
-// 			&:nth-child(2) {
-// 				display: none;
-// 				background-image        : none;
-// 				-webkit-mask-image      : url(../assets/logo.svg);
-// 				mask-image              : url(../assets/logo.svg);
-// 				-webkit-mask-size       : 320px auto;
-// 				mask-size               : 320px auto;
-// 				-webkit-mask-repeat     : no-repeat;
-// 				mask-repeat             : no-repeat;
-// 				-webkit-mask-position-x : center;
-// 				mask-position-x         : center;
-// 			}
-
-// 			&:last-child {
-// 				background-color: #000;
-// 			}
-// 		}
-// 	} 
-// }

@@ -95,8 +95,13 @@ section:nth-child(1) {
 /* line 37, ../sass/screen.scss */
 section:nth-child(1) div {
   position: relative;
+  -webkit-transtion: all .2s;
+  -moz-transtion: all .2s;
+  -ms-transtion: all .2s;
+  -o-transtion: all .2s;
+  transtion: all .2s;
 }
-/* line 41, ../sass/screen.scss */
+/* line 46, ../sass/screen.scss */
 section:nth-child(1) div:before {
   display: block;
   margin: 25% 0;
@@ -110,51 +115,51 @@ section:nth-child(1) div:before {
   -o-transition: opacity .2s;
   transition: opacity .2s;
 }
-/* line 55, ../sass/screen.scss */
+/* line 60, ../sass/screen.scss */
 section:nth-child(1) div:hover {
   background-image: none;
 }
-/* line 57, ../sass/screen.scss */
+/* line 62, ../sass/screen.scss */
 section:nth-child(1) div:hover:before {
   opacity: 1;
 }
-/* line 63, ../sass/screen.scss */
+/* line 68, ../sass/screen.scss */
 section:nth-child(1) div:first-child {
   background-color: #45478a;
 }
-/* line 66, ../sass/screen.scss */
+/* line 71, ../sass/screen.scss */
 section:nth-child(1) div:first-child:before {
   content: "#45478a";
 }
-/* line 70, ../sass/screen.scss */
+/* line 75, ../sass/screen.scss */
 section:nth-child(1) div:nth-child(2) {
   background-color: #4d4f9b;
 }
-/* line 73, ../sass/screen.scss */
+/* line 78, ../sass/screen.scss */
 section:nth-child(1) div:nth-child(2):before {
   content: "#4d4f9b";
 }
-/* line 78, ../sass/screen.scss */
+/* line 83, ../sass/screen.scss */
 section:nth-child(1) div:nth-child(3) {
   background-color: #3c3e79;
 }
-/* line 81, ../sass/screen.scss */
+/* line 86, ../sass/screen.scss */
 section:nth-child(1) div:nth-child(3):before {
   content: "#3c3e79";
 }
-/* line 87, ../sass/screen.scss */
+/* line 92, ../sass/screen.scss */
 section:nth-child(1) div:nth-child(4) {
   background-color: #343568;
 }
-/* line 90, ../sass/screen.scss */
+/* line 95, ../sass/screen.scss */
 section:nth-child(1) div:nth-child(4):before {
   content: "#343568";
 }
-/* line 96, ../sass/screen.scss */
+/* line 101, ../sass/screen.scss */
 section:nth-child(1) div:last-child {
   background-color: #2b2c57;
 }
-/* line 99, ../sass/screen.scss */
+/* line 104, ../sass/screen.scss */
 section:nth-child(1) div:last-child:before {
   content: "#2b2c57";
 }
@@ -166,8 +171,13 @@ section:nth-child(2) {
 /* line 37, ../sass/screen.scss */
 section:nth-child(2) div {
   position: relative;
+  -webkit-transtion: all .2s;
+  -moz-transtion: all .2s;
+  -ms-transtion: all .2s;
+  -o-transtion: all .2s;
+  transtion: all .2s;
 }
-/* line 41, ../sass/screen.scss */
+/* line 46, ../sass/screen.scss */
 section:nth-child(2) div:before {
   display: block;
   margin: 25% 0;
@@ -181,51 +191,51 @@ section:nth-child(2) div:before {
   -o-transition: opacity .2s;
   transition: opacity .2s;
 }
-/* line 55, ../sass/screen.scss */
+/* line 60, ../sass/screen.scss */
 section:nth-child(2) div:hover {
   background-image: none;
 }
-/* line 57, ../sass/screen.scss */
+/* line 62, ../sass/screen.scss */
 section:nth-child(2) div:hover:before {
   opacity: 1;
 }
-/* line 63, ../sass/screen.scss */
+/* line 68, ../sass/screen.scss */
 section:nth-child(2) div:first-child {
   background-color: #48458a;
 }
-/* line 66, ../sass/screen.scss */
+/* line 71, ../sass/screen.scss */
 section:nth-child(2) div:first-child:before {
   content: "#48458a";
 }
-/* line 70, ../sass/screen.scss */
+/* line 75, ../sass/screen.scss */
 section:nth-child(2) div:nth-child(2) {
   background-color: #514d9b;
 }
-/* line 73, ../sass/screen.scss */
+/* line 78, ../sass/screen.scss */
 section:nth-child(2) div:nth-child(2):before {
   content: "#514d9b";
 }
-/* line 78, ../sass/screen.scss */
+/* line 83, ../sass/screen.scss */
 section:nth-child(2) div:nth-child(3) {
   background-color: #3f3c79;
 }
-/* line 81, ../sass/screen.scss */
+/* line 86, ../sass/screen.scss */
 section:nth-child(2) div:nth-child(3):before {
   content: "#3f3c79";
 }
-/* line 87, ../sass/screen.scss */
+/* line 92, ../sass/screen.scss */
 section:nth-child(2) div:nth-child(4) {
   background-color: #363468;
 }
-/* line 90, ../sass/screen.scss */
+/* line 95, ../sass/screen.scss */
 section:nth-child(2) div:nth-child(4):before {
   content: "#363468";
 }
-/* line 96, ../sass/screen.scss */
+/* line 101, ../sass/screen.scss */
 section:nth-child(2) div:last-child {
   background-color: #2d2b57;
 }
-/* line 99, ../sass/screen.scss */
+/* line 104, ../sass/screen.scss */
 section:nth-child(2) div:last-child:before {
   content: "#2d2b57";
 }
@@ -237,8 +247,13 @@ section:nth-child(3) {
 /* line 37, ../sass/screen.scss */
 section:nth-child(3) div {
   position: relative;
+  -webkit-transtion: all .2s;
+  -moz-transtion: all .2s;
+  -ms-transtion: all .2s;
+  -o-transtion: all .2s;
+  transtion: all .2s;
 }
-/* line 41, ../sass/screen.scss */
+/* line 46, ../sass/screen.scss */
 section:nth-child(3) div:before {
   display: block;
   margin: 25% 0;
@@ -252,51 +267,51 @@ section:nth-child(3) div:before {
   -o-transition: opacity .2s;
   transition: opacity .2s;
 }
-/* line 55, ../sass/screen.scss */
+/* line 60, ../sass/screen.scss */
 section:nth-child(3) div:hover {
   background-image: none;
 }
-/* line 57, ../sass/screen.scss */
+/* line 62, ../sass/screen.scss */
 section:nth-child(3) div:hover:before {
   opacity: 1;
 }
-/* line 63, ../sass/screen.scss */
+/* line 68, ../sass/screen.scss */
 section:nth-child(3) div:first-child {
   background-color: #4e458a;
 }
-/* line 66, ../sass/screen.scss */
+/* line 71, ../sass/screen.scss */
 section:nth-child(3) div:first-child:before {
   content: "#4e458a";
 }
-/* line 70, ../sass/screen.scss */
+/* line 75, ../sass/screen.scss */
 section:nth-child(3) div:nth-child(2) {
   background-color: #584d9b;
 }
-/* line 73, ../sass/screen.scss */
+/* line 78, ../sass/screen.scss */
 section:nth-child(3) div:nth-child(2):before {
   content: "#584d9b";
 }
-/* line 78, ../sass/screen.scss */
+/* line 83, ../sass/screen.scss */
 section:nth-child(3) div:nth-child(3) {
   background-color: #443c79;
 }
-/* line 81, ../sass/screen.scss */
+/* line 86, ../sass/screen.scss */
 section:nth-child(3) div:nth-child(3):before {
   content: "#443c79";
 }
-/* line 87, ../sass/screen.scss */
+/* line 92, ../sass/screen.scss */
 section:nth-child(3) div:nth-child(4) {
   background-color: #3b3468;
 }
-/* line 90, ../sass/screen.scss */
+/* line 95, ../sass/screen.scss */
 section:nth-child(3) div:nth-child(4):before {
   content: "#3b3468";
 }
-/* line 96, ../sass/screen.scss */
+/* line 101, ../sass/screen.scss */
 section:nth-child(3) div:last-child {
   background-color: #312b57;
 }
-/* line 99, ../sass/screen.scss */
+/* line 104, ../sass/screen.scss */
 section:nth-child(3) div:last-child:before {
   content: "#312b57";
 }
@@ -308,8 +323,13 @@ section:nth-child(4) {
 /* line 37, ../sass/screen.scss */
 section:nth-child(4) div {
   position: relative;
+  -webkit-transtion: all .2s;
+  -moz-transtion: all .2s;
+  -ms-transtion: all .2s;
+  -o-transtion: all .2s;
+  transtion: all .2s;
 }
-/* line 41, ../sass/screen.scss */
+/* line 46, ../sass/screen.scss */
 section:nth-child(4) div:before {
   display: block;
   margin: 25% 0;
@@ -323,51 +343,51 @@ section:nth-child(4) div:before {
   -o-transition: opacity .2s;
   transition: opacity .2s;
 }
-/* line 55, ../sass/screen.scss */
+/* line 60, ../sass/screen.scss */
 section:nth-child(4) div:hover {
   background-image: none;
 }
-/* line 57, ../sass/screen.scss */
+/* line 62, ../sass/screen.scss */
 section:nth-child(4) div:hover:before {
   opacity: 1;
 }
-/* line 63, ../sass/screen.scss */
+/* line 68, ../sass/screen.scss */
 section:nth-child(4) div:first-child {
   background-color: #54458a;
 }
-/* line 66, ../sass/screen.scss */
+/* line 71, ../sass/screen.scss */
 section:nth-child(4) div:first-child:before {
   content: "#54458a";
 }
-/* line 70, ../sass/screen.scss */
+/* line 75, ../sass/screen.scss */
 section:nth-child(4) div:nth-child(2) {
   background-color: #5e4d9b;
 }
-/* line 73, ../sass/screen.scss */
+/* line 78, ../sass/screen.scss */
 section:nth-child(4) div:nth-child(2):before {
   content: "#5e4d9b";
 }
-/* line 78, ../sass/screen.scss */
+/* line 83, ../sass/screen.scss */
 section:nth-child(4) div:nth-child(3) {
   background-color: #493c79;
 }
-/* line 81, ../sass/screen.scss */
+/* line 86, ../sass/screen.scss */
 section:nth-child(4) div:nth-child(3):before {
   content: "#493c79";
 }
-/* line 87, ../sass/screen.scss */
+/* line 92, ../sass/screen.scss */
 section:nth-child(4) div:nth-child(4) {
   background-color: #3f3468;
 }
-/* line 90, ../sass/screen.scss */
+/* line 95, ../sass/screen.scss */
 section:nth-child(4) div:nth-child(4):before {
   content: "#3f3468";
 }
-/* line 96, ../sass/screen.scss */
+/* line 101, ../sass/screen.scss */
 section:nth-child(4) div:last-child {
   background-color: #352b57;
 }
-/* line 99, ../sass/screen.scss */
+/* line 104, ../sass/screen.scss */
 section:nth-child(4) div:last-child:before {
   content: "#352b57";
 }
@@ -379,8 +399,13 @@ section:nth-child(5) {
 /* line 37, ../sass/screen.scss */
 section:nth-child(5) div {
   position: relative;
+  -webkit-transtion: all .2s;
+  -moz-transtion: all .2s;
+  -ms-transtion: all .2s;
+  -o-transtion: all .2s;
+  transtion: all .2s;
 }
-/* line 41, ../sass/screen.scss */
+/* line 46, ../sass/screen.scss */
 section:nth-child(5) div:before {
   display: block;
   margin: 25% 0;
@@ -394,51 +419,51 @@ section:nth-child(5) div:before {
   -o-transition: opacity .2s;
   transition: opacity .2s;
 }
-/* line 55, ../sass/screen.scss */
+/* line 60, ../sass/screen.scss */
 section:nth-child(5) div:hover {
   background-image: none;
 }
-/* line 57, ../sass/screen.scss */
+/* line 62, ../sass/screen.scss */
 section:nth-child(5) div:hover:before {
   opacity: 1;
 }
-/* line 63, ../sass/screen.scss */
+/* line 68, ../sass/screen.scss */
 section:nth-child(5) div:first-child {
   background-color: #5a458a;
 }
-/* line 66, ../sass/screen.scss */
+/* line 71, ../sass/screen.scss */
 section:nth-child(5) div:first-child:before {
   content: "#5a458a";
 }
-/* line 70, ../sass/screen.scss */
+/* line 75, ../sass/screen.scss */
 section:nth-child(5) div:nth-child(2) {
   background-color: #654d9b;
 }
-/* line 73, ../sass/screen.scss */
+/* line 78, ../sass/screen.scss */
 section:nth-child(5) div:nth-child(2):before {
   content: "#654d9b";
 }
-/* line 78, ../sass/screen.scss */
+/* line 83, ../sass/screen.scss */
 section:nth-child(5) div:nth-child(3) {
   background-color: #4f3c79;
 }
-/* line 81, ../sass/screen.scss */
+/* line 86, ../sass/screen.scss */
 section:nth-child(5) div:nth-child(3):before {
   content: "#4f3c79";
 }
-/* line 87, ../sass/screen.scss */
+/* line 92, ../sass/screen.scss */
 section:nth-child(5) div:nth-child(4) {
   background-color: #433468;
 }
-/* line 90, ../sass/screen.scss */
+/* line 95, ../sass/screen.scss */
 section:nth-child(5) div:nth-child(4):before {
   content: "#433468";
 }
-/* line 96, ../sass/screen.scss */
+/* line 101, ../sass/screen.scss */
 section:nth-child(5) div:last-child {
   background-color: #382b57;
 }
-/* line 99, ../sass/screen.scss */
+/* line 104, ../sass/screen.scss */
 section:nth-child(5) div:last-child:before {
   content: "#382b57";
 }
@@ -450,8 +475,13 @@ section:nth-child(6) {
 /* line 37, ../sass/screen.scss */
 section:nth-child(6) div {
   position: relative;
+  -webkit-transtion: all .2s;
+  -moz-transtion: all .2s;
+  -ms-transtion: all .2s;
+  -o-transtion: all .2s;
+  transtion: all .2s;
 }
-/* line 41, ../sass/screen.scss */
+/* line 46, ../sass/screen.scss */
 section:nth-child(6) div:before {
   display: block;
   margin: 25% 0;
@@ -465,51 +495,51 @@ section:nth-child(6) div:before {
   -o-transition: opacity .2s;
   transition: opacity .2s;
 }
-/* line 55, ../sass/screen.scss */
+/* line 60, ../sass/screen.scss */
 section:nth-child(6) div:hover {
   background-image: none;
 }
-/* line 57, ../sass/screen.scss */
+/* line 62, ../sass/screen.scss */
 section:nth-child(6) div:hover:before {
   opacity: 1;
 }
-/* line 63, ../sass/screen.scss */
+/* line 68, ../sass/screen.scss */
 section:nth-child(6) div:first-child {
   background-color: #5f458a;
 }
-/* line 66, ../sass/screen.scss */
+/* line 71, ../sass/screen.scss */
 section:nth-child(6) div:first-child:before {
   content: "#5f458a";
 }
-/* line 70, ../sass/screen.scss */
+/* line 75, ../sass/screen.scss */
 section:nth-child(6) div:nth-child(2) {
   background-color: #6b4d9b;
 }
-/* line 73, ../sass/screen.scss */
+/* line 78, ../sass/screen.scss */
 section:nth-child(6) div:nth-child(2):before {
   content: "#6b4d9b";
 }
-/* line 78, ../sass/screen.scss */
+/* line 83, ../sass/screen.scss */
 section:nth-child(6) div:nth-child(3) {
   background-color: #543c79;
 }
-/* line 81, ../sass/screen.scss */
+/* line 86, ../sass/screen.scss */
 section:nth-child(6) div:nth-child(3):before {
   content: "#543c79";
 }
-/* line 87, ../sass/screen.scss */
+/* line 92, ../sass/screen.scss */
 section:nth-child(6) div:nth-child(4) {
   background-color: #483468;
 }
-/* line 90, ../sass/screen.scss */
+/* line 95, ../sass/screen.scss */
 section:nth-child(6) div:nth-child(4):before {
   content: "#483468";
 }
-/* line 96, ../sass/screen.scss */
+/* line 101, ../sass/screen.scss */
 section:nth-child(6) div:last-child {
   background-color: #3c2b57;
 }
-/* line 99, ../sass/screen.scss */
+/* line 104, ../sass/screen.scss */
 section:nth-child(6) div:last-child:before {
   content: "#3c2b57";
 }
@@ -521,8 +551,13 @@ section:nth-child(7) {
 /* line 37, ../sass/screen.scss */
 section:nth-child(7) div {
   position: relative;
+  -webkit-transtion: all .2s;
+  -moz-transtion: all .2s;
+  -ms-transtion: all .2s;
+  -o-transtion: all .2s;
+  transtion: all .2s;
 }
-/* line 41, ../sass/screen.scss */
+/* line 46, ../sass/screen.scss */
 section:nth-child(7) div:before {
   display: block;
   margin: 25% 0;
@@ -536,51 +571,51 @@ section:nth-child(7) div:before {
   -o-transition: opacity .2s;
   transition: opacity .2s;
 }
-/* line 55, ../sass/screen.scss */
+/* line 60, ../sass/screen.scss */
 section:nth-child(7) div:hover {
   background-image: none;
 }
-/* line 57, ../sass/screen.scss */
+/* line 62, ../sass/screen.scss */
 section:nth-child(7) div:hover:before {
   opacity: 1;
 }
-/* line 63, ../sass/screen.scss */
+/* line 68, ../sass/screen.scss */
 section:nth-child(7) div:first-child {
   background-color: #65458a;
 }
-/* line 66, ../sass/screen.scss */
+/* line 71, ../sass/screen.scss */
 section:nth-child(7) div:first-child:before {
   content: "#65458a";
 }
-/* line 70, ../sass/screen.scss */
+/* line 75, ../sass/screen.scss */
 section:nth-child(7) div:nth-child(2) {
   background-color: #724d9b;
 }
-/* line 73, ../sass/screen.scss */
+/* line 78, ../sass/screen.scss */
 section:nth-child(7) div:nth-child(2):before {
   content: "#724d9b";
 }
-/* line 78, ../sass/screen.scss */
+/* line 83, ../sass/screen.scss */
 section:nth-child(7) div:nth-child(3) {
   background-color: #593c79;
 }
-/* line 81, ../sass/screen.scss */
+/* line 86, ../sass/screen.scss */
 section:nth-child(7) div:nth-child(3):before {
   content: "#593c79";
 }
-/* line 87, ../sass/screen.scss */
+/* line 92, ../sass/screen.scss */
 section:nth-child(7) div:nth-child(4) {
   background-color: #4c3468;
 }
-/* line 90, ../sass/screen.scss */
+/* line 95, ../sass/screen.scss */
 section:nth-child(7) div:nth-child(4):before {
   content: "#4c3468";
 }
-/* line 96, ../sass/screen.scss */
+/* line 101, ../sass/screen.scss */
 section:nth-child(7) div:last-child {
   background-color: #402b57;
 }
-/* line 99, ../sass/screen.scss */
+/* line 104, ../sass/screen.scss */
 section:nth-child(7) div:last-child:before {
   content: "#402b57";
 }
@@ -592,8 +627,13 @@ section:nth-child(8) {
 /* line 37, ../sass/screen.scss */
 section:nth-child(8) div {
   position: relative;
+  -webkit-transtion: all .2s;
+  -moz-transtion: all .2s;
+  -ms-transtion: all .2s;
+  -o-transtion: all .2s;
+  transtion: all .2s;
 }
-/* line 41, ../sass/screen.scss */
+/* line 46, ../sass/screen.scss */
 section:nth-child(8) div:before {
   display: block;
   margin: 25% 0;
@@ -607,51 +647,51 @@ section:nth-child(8) div:before {
   -o-transition: opacity .2s;
   transition: opacity .2s;
 }
-/* line 55, ../sass/screen.scss */
+/* line 60, ../sass/screen.scss */
 section:nth-child(8) div:hover {
   background-image: none;
 }
-/* line 57, ../sass/screen.scss */
+/* line 62, ../sass/screen.scss */
 section:nth-child(8) div:hover:before {
   opacity: 1;
 }
-/* line 63, ../sass/screen.scss */
+/* line 68, ../sass/screen.scss */
 section:nth-child(8) div:first-child {
   background-color: #6b458a;
 }
-/* line 66, ../sass/screen.scss */
+/* line 71, ../sass/screen.scss */
 section:nth-child(8) div:first-child:before {
   content: "#6b458a";
 }
-/* line 70, ../sass/screen.scss */
+/* line 75, ../sass/screen.scss */
 section:nth-child(8) div:nth-child(2) {
   background-color: #784d9b;
 }
-/* line 73, ../sass/screen.scss */
+/* line 78, ../sass/screen.scss */
 section:nth-child(8) div:nth-child(2):before {
   content: "#784d9b";
 }
-/* line 78, ../sass/screen.scss */
+/* line 83, ../sass/screen.scss */
 section:nth-child(8) div:nth-child(3) {
   background-color: #5e3c79;
 }
-/* line 81, ../sass/screen.scss */
+/* line 86, ../sass/screen.scss */
 section:nth-child(8) div:nth-child(3):before {
   content: "#5e3c79";
 }
-/* line 87, ../sass/screen.scss */
+/* line 92, ../sass/screen.scss */
 section:nth-child(8) div:nth-child(4) {
   background-color: #513468;
 }
-/* line 90, ../sass/screen.scss */
+/* line 95, ../sass/screen.scss */
 section:nth-child(8) div:nth-child(4):before {
   content: "#513468";
 }
-/* line 96, ../sass/screen.scss */
+/* line 101, ../sass/screen.scss */
 section:nth-child(8) div:last-child {
   background-color: #432b57;
 }
-/* line 99, ../sass/screen.scss */
+/* line 104, ../sass/screen.scss */
 section:nth-child(8) div:last-child:before {
   content: "#432b57";
 }
@@ -663,8 +703,13 @@ section:nth-child(9) {
 /* line 37, ../sass/screen.scss */
 section:nth-child(9) div {
   position: relative;
+  -webkit-transtion: all .2s;
+  -moz-transtion: all .2s;
+  -ms-transtion: all .2s;
+  -o-transtion: all .2s;
+  transtion: all .2s;
 }
-/* line 41, ../sass/screen.scss */
+/* line 46, ../sass/screen.scss */
 section:nth-child(9) div:before {
   display: block;
   margin: 25% 0;
@@ -678,51 +723,51 @@ section:nth-child(9) div:before {
   -o-transition: opacity .2s;
   transition: opacity .2s;
 }
-/* line 55, ../sass/screen.scss */
+/* line 60, ../sass/screen.scss */
 section:nth-child(9) div:hover {
   background-image: none;
 }
-/* line 57, ../sass/screen.scss */
+/* line 62, ../sass/screen.scss */
 section:nth-child(9) div:hover:before {
   opacity: 1;
 }
-/* line 63, ../sass/screen.scss */
+/* line 68, ../sass/screen.scss */
 section:nth-child(9) div:first-child {
   background-color: #71458a;
 }
-/* line 66, ../sass/screen.scss */
+/* line 71, ../sass/screen.scss */
 section:nth-child(9) div:first-child:before {
   content: "#71458a";
 }
-/* line 70, ../sass/screen.scss */
+/* line 75, ../sass/screen.scss */
 section:nth-child(9) div:nth-child(2) {
   background-color: #7f4d9b;
 }
-/* line 73, ../sass/screen.scss */
+/* line 78, ../sass/screen.scss */
 section:nth-child(9) div:nth-child(2):before {
   content: "#7f4d9b";
 }
-/* line 78, ../sass/screen.scss */
+/* line 83, ../sass/screen.scss */
 section:nth-child(9) div:nth-child(3) {
   background-color: #633c79;
 }
-/* line 81, ../sass/screen.scss */
+/* line 86, ../sass/screen.scss */
 section:nth-child(9) div:nth-child(3):before {
   content: "#633c79";
 }
-/* line 87, ../sass/screen.scss */
+/* line 92, ../sass/screen.scss */
 section:nth-child(9) div:nth-child(4) {
   background-color: #553468;
 }
-/* line 90, ../sass/screen.scss */
+/* line 95, ../sass/screen.scss */
 section:nth-child(9) div:nth-child(4):before {
   content: "#553468";
 }
-/* line 96, ../sass/screen.scss */
+/* line 101, ../sass/screen.scss */
 section:nth-child(9) div:last-child {
   background-color: #472b57;
 }
-/* line 99, ../sass/screen.scss */
+/* line 104, ../sass/screen.scss */
 section:nth-child(9) div:last-child:before {
   content: "#472b57";
 }
@@ -734,8 +779,13 @@ section:nth-child(10) {
 /* line 37, ../sass/screen.scss */
 section:nth-child(10) div {
   position: relative;
+  -webkit-transtion: all .2s;
+  -moz-transtion: all .2s;
+  -ms-transtion: all .2s;
+  -o-transtion: all .2s;
+  transtion: all .2s;
 }
-/* line 41, ../sass/screen.scss */
+/* line 46, ../sass/screen.scss */
 section:nth-child(10) div:before {
   display: block;
   margin: 25% 0;
@@ -749,51 +799,51 @@ section:nth-child(10) div:before {
   -o-transition: opacity .2s;
   transition: opacity .2s;
 }
-/* line 55, ../sass/screen.scss */
+/* line 60, ../sass/screen.scss */
 section:nth-child(10) div:hover {
   background-image: none;
 }
-/* line 57, ../sass/screen.scss */
+/* line 62, ../sass/screen.scss */
 section:nth-child(10) div:hover:before {
   opacity: 1;
 }
-/* line 63, ../sass/screen.scss */
+/* line 68, ../sass/screen.scss */
 section:nth-child(10) div:first-child {
   background-color: #77458a;
 }
-/* line 66, ../sass/screen.scss */
+/* line 71, ../sass/screen.scss */
 section:nth-child(10) div:first-child:before {
   content: "#77458a";
 }
-/* line 70, ../sass/screen.scss */
+/* line 75, ../sass/screen.scss */
 section:nth-child(10) div:nth-child(2) {
   background-color: #854d9b;
 }
-/* line 73, ../sass/screen.scss */
+/* line 78, ../sass/screen.scss */
 section:nth-child(10) div:nth-child(2):before {
   content: "#854d9b";
 }
-/* line 78, ../sass/screen.scss */
+/* line 83, ../sass/screen.scss */
 section:nth-child(10) div:nth-child(3) {
   background-color: #683c79;
 }
-/* line 81, ../sass/screen.scss */
+/* line 86, ../sass/screen.scss */
 section:nth-child(10) div:nth-child(3):before {
   content: "#683c79";
 }
-/* line 87, ../sass/screen.scss */
+/* line 92, ../sass/screen.scss */
 section:nth-child(10) div:nth-child(4) {
   background-color: #593468;
 }
-/* line 90, ../sass/screen.scss */
+/* line 95, ../sass/screen.scss */
 section:nth-child(10) div:nth-child(4):before {
   content: "#593468";
 }
-/* line 96, ../sass/screen.scss */
+/* line 101, ../sass/screen.scss */
 section:nth-child(10) div:last-child {
   background-color: #4b2b57;
 }
-/* line 99, ../sass/screen.scss */
+/* line 104, ../sass/screen.scss */
 section:nth-child(10) div:last-child:before {
   content: "#4b2b57";
 }
@@ -805,8 +855,13 @@ section:nth-child(11) {
 /* line 37, ../sass/screen.scss */
 section:nth-child(11) div {
   position: relative;
+  -webkit-transtion: all .2s;
+  -moz-transtion: all .2s;
+  -ms-transtion: all .2s;
+  -o-transtion: all .2s;
+  transtion: all .2s;
 }
-/* line 41, ../sass/screen.scss */
+/* line 46, ../sass/screen.scss */
 section:nth-child(11) div:before {
   display: block;
   margin: 25% 0;
@@ -820,51 +875,51 @@ section:nth-child(11) div:before {
   -o-transition: opacity .2s;
   transition: opacity .2s;
 }
-/* line 55, ../sass/screen.scss */
+/* line 60, ../sass/screen.scss */
 section:nth-child(11) div:hover {
   background-image: none;
 }
-/* line 57, ../sass/screen.scss */
+/* line 62, ../sass/screen.scss */
 section:nth-child(11) div:hover:before {
   opacity: 1;
 }
-/* line 63, ../sass/screen.scss */
+/* line 68, ../sass/screen.scss */
 section:nth-child(11) div:first-child {
   background-color: #7c458a;
 }
-/* line 66, ../sass/screen.scss */
+/* line 71, ../sass/screen.scss */
 section:nth-child(11) div:first-child:before {
   content: "#7c458a";
 }
-/* line 70, ../sass/screen.scss */
+/* line 75, ../sass/screen.scss */
 section:nth-child(11) div:nth-child(2) {
   background-color: #8c4d9b;
 }
-/* line 73, ../sass/screen.scss */
+/* line 78, ../sass/screen.scss */
 section:nth-child(11) div:nth-child(2):before {
   content: "#8c4d9b";
 }
-/* line 78, ../sass/screen.scss */
+/* line 83, ../sass/screen.scss */
 section:nth-child(11) div:nth-child(3) {
   background-color: #6d3c79;
 }
-/* line 81, ../sass/screen.scss */
+/* line 86, ../sass/screen.scss */
 section:nth-child(11) div:nth-child(3):before {
   content: "#6d3c79";
 }
-/* line 87, ../sass/screen.scss */
+/* line 92, ../sass/screen.scss */
 section:nth-child(11) div:nth-child(4) {
   background-color: #5e3468;
 }
-/* line 90, ../sass/screen.scss */
+/* line 95, ../sass/screen.scss */
 section:nth-child(11) div:nth-child(4):before {
   content: "#5e3468";
 }
-/* line 96, ../sass/screen.scss */
+/* line 101, ../sass/screen.scss */
 section:nth-child(11) div:last-child {
   background-color: #4e2b57;
 }
-/* line 99, ../sass/screen.scss */
+/* line 104, ../sass/screen.scss */
 section:nth-child(11) div:last-child:before {
   content: "#4e2b57";
 }
@@ -876,8 +931,13 @@ section:nth-child(12) {
 /* line 37, ../sass/screen.scss */
 section:nth-child(12) div {
   position: relative;
+  -webkit-transtion: all .2s;
+  -moz-transtion: all .2s;
+  -ms-transtion: all .2s;
+  -o-transtion: all .2s;
+  transtion: all .2s;
 }
-/* line 41, ../sass/screen.scss */
+/* line 46, ../sass/screen.scss */
 section:nth-child(12) div:before {
   display: block;
   margin: 25% 0;
@@ -891,51 +951,51 @@ section:nth-child(12) div:before {
   -o-transition: opacity .2s;
   transition: opacity .2s;
 }
-/* line 55, ../sass/screen.scss */
+/* line 60, ../sass/screen.scss */
 section:nth-child(12) div:hover {
   background-image: none;
 }
-/* line 57, ../sass/screen.scss */
+/* line 62, ../sass/screen.scss */
 section:nth-child(12) div:hover:before {
   opacity: 1;
 }
-/* line 63, ../sass/screen.scss */
+/* line 68, ../sass/screen.scss */
 section:nth-child(12) div:first-child {
   background-color: #82458a;
 }
-/* line 66, ../sass/screen.scss */
+/* line 71, ../sass/screen.scss */
 section:nth-child(12) div:first-child:before {
   content: "#82458a";
 }
-/* line 70, ../sass/screen.scss */
+/* line 75, ../sass/screen.scss */
 section:nth-child(12) div:nth-child(2) {
   background-color: #924d9b;
 }
-/* line 73, ../sass/screen.scss */
+/* line 78, ../sass/screen.scss */
 section:nth-child(12) div:nth-child(2):before {
   content: "#924d9b";
 }
-/* line 78, ../sass/screen.scss */
+/* line 83, ../sass/screen.scss */
 section:nth-child(12) div:nth-child(3) {
   background-color: #723c79;
 }
-/* line 81, ../sass/screen.scss */
+/* line 86, ../sass/screen.scss */
 section:nth-child(12) div:nth-child(3):before {
   content: "#723c79";
 }
-/* line 87, ../sass/screen.scss */
+/* line 92, ../sass/screen.scss */
 section:nth-child(12) div:nth-child(4) {
   background-color: #623468;
 }
-/* line 90, ../sass/screen.scss */
+/* line 95, ../sass/screen.scss */
 section:nth-child(12) div:nth-child(4):before {
   content: "#623468";
 }
-/* line 96, ../sass/screen.scss */
+/* line 101, ../sass/screen.scss */
 section:nth-child(12) div:last-child {
   background-color: #522b57;
 }
-/* line 99, ../sass/screen.scss */
+/* line 104, ../sass/screen.scss */
 section:nth-child(12) div:last-child:before {
   content: "#522b57";
 }
